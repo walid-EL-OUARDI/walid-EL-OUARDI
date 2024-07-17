@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis WALID EL OUARDI</h1>
-<h3 align="center">Un développeur full stack passionné par la création d'applications web robustes</h3>
+<h2 align="center">Un développeur full stack passionné par la création d'applications web robustes</h2>
+<h2 align="center">Laravel/Vue,React</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walid-el-ouardi&label=Profile%20views&color=0e75b6&style=flat" alt="walid-el-ouardi" /> </p>
 
