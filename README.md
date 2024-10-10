@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **symfony and nuxt**
+- 🌱 I’m currently learning **Symfony and Nuxt**
 
 - 💬 Ask me about **Laravel, Vue and React**
 
